@@ -6,7 +6,7 @@
 
 <sub>AeroInsta, protegendo sua privacidade, aprimorando sua experiência com aplicativos; é uma obra-prima meticulosamente trabalhada para torná-lo fácil, divertido e útil.</sub>
 
-[![Download](https://img.shields.io/badge/Baixar-AeroInsta-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://aeroinsta.com/download-insta-aero)
+[![Download](https://img.shields.io/badge/Baixar-AeroInsta-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://aeroinsta.com/download-insta-aero/?lang=pt)
 
 <br>
 
@@ -61,7 +61,7 @@ Baixe agora e aproveite os Privilégios Aero.**
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Baixe-Agora-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://aeroinsta.com/download-insta-aero)
+[![Download](https://img.shields.io/badge/Baixe-Agora-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://aeroinsta.com/download-insta-aero/?lang=pt)
 
 </div>
 
